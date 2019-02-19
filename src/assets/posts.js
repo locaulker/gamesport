@@ -50,7 +50,7 @@ const posts = [
         date:'nov-28'
     },
     {
-        id:'5',
+        id:'6',
         img:'3.jpg',
         game:'Red dead redemption',
         title:'Lorem ipsum dolor sit amet',
