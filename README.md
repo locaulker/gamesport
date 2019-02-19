@@ -1,4 +1,4 @@
-# gamespot
+# gamesport
 
 ## Project setup
 ```
